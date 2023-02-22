@@ -1,0 +1,26 @@
+/* Section heading underline */
+.section-title-underline {
+  color: #000;
+}
+
+.section-title-underline span {
+  display: inline-block;
+  border-bottom: 4px solid #51be78;
+}
+
+.section-title-underline.style-2 {
+  color: #fff;
+}
+
+.section-title-underline.style-2 span {
+  border-color: #51be78;
+}
+
+/* logo-slider */
+.logo-slider-img{
+  max-width: 50% !important;
+}
+
+.logo-slider-img.big-logo{  
+  width: 30% !important;
+}
