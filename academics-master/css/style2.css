@@ -16,16 +16,7 @@
   border-color: #51be78;
 }
 
-/* logo-slider */
-.logo-slider-img, .logo-slider-img.big-logo{
-  object-fit: cover;
-  /* border: 2px solid red; */
-}
-
-.logo-slider-img{
-  max-width: 100% !important;  
-}
-
-.logo-slider-img.big-logo{  
-  width: 50% !important;
+/* Recruiters section */
+#recruiters-section .logo-slider-img{
+  max-height: 10rem;  
 }
