@@ -20,3 +20,8 @@
 #recruiters-section .logo-slider-img{
   max-height: 10rem;  
 }
+
+/* Testimonials Section */
+#testimonials-section .testimony-card{  
+  width: 18rem;
+}
