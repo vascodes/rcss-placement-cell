@@ -17,34 +17,47 @@
 }
 
 /* Recruiters section */
-#recruiters-section .logo-slider-img{
+#section-recruiters .logo-slider-img{
   max-height: 10rem;  
 }
 
 /* About us section */
-#about-us-section{
+#section-about-us{
   /* background-color: #51be78; */
   padding: 4rem;
   color: white;
 }
 
-#about-us-section .section-title-underline{
+#section-about-us .section-title-underline{
   border-bottom: 4px solid white;
   width: 9rem;
 }
 
-#about-us-section .about-us-title{
+#section-about-us .about-us-title{
   color: white;
 }
 
+/* Placement Cell Team section */
+#section-placement-team .placement-team-card{    
+  border: none;  
+}
+
+#section-placement-team #placementTeamCoordinators .placement-team-card{
+  width: 15rem;
+}
+
+#section-placement-team .placement-team-card .card-img{  
+  /* width: 70%; */
+  border-radius: 10%;
+}
 
 /* Testimonials Section */
-#testimonials-section .testimony-card{  
+#section-testimonials .testimony-card{  
   width: 18rem;
   min-height: 30rem;
 }
 
-#testimonials-section .carousel-inner{
+#section-testimonials .carousel-inner{
   padding: 0rem 8rem;  
   padding-bottom: 3rem;
 }
