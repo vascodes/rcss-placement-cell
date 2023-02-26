@@ -21,7 +21,25 @@
   max-height: 10rem;  
 }
 
+/* About us section */
+#about-us-section{
+  background-color: #51be78;
+  padding: 4rem;
+  color: white;
+}
+
+#about-us-section .section-title-underline{
+  border-bottom: 4px solid white;
+  width: 12rem;
+}
+
+
 /* Testimonials Section */
 #testimonials-section .testimony-card{  
   width: 18rem;
+}
+
+#testimonials-section .carousel-inner{
+  padding: 0rem 8rem;  
+  padding-bottom: 3rem;
 }
