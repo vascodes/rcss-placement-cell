@@ -37,6 +37,7 @@
 /* Testimonials Section */
 #testimonials-section .testimony-card{  
   width: 18rem;
+  min-height: 30rem;
 }
 
 #testimonials-section .carousel-inner{
